@@ -2,7 +2,7 @@
 
 **Luna DevCode** is a simple web application that allows developers and beginners to write HTML code and see the results in real time. This tool is designed to enhance the learning experience by providing immediate feedback on code changes, making it an excellent resource for web development practice.
 
-<img title="Luna DevCode" alt="Preview" src="/images/LunaDevCodeImg.png">
+<img title="Luna DevCode" alt="Preview" src="/LunaDevCodeImg.png">
 
 ## Features
 
